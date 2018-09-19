@@ -14,9 +14,12 @@ for i in np.ravel(a):
 	print('Element', i)
 
 #			Give index
+
 a = np.arange(6)*2
 i = np.array([1,3,5,2])
 print(a[i])
 
 i = np.array([[1,3],[5,2]])
 print(a[i])
+
+#			ЗАКОНЧИЛ в 20:00
